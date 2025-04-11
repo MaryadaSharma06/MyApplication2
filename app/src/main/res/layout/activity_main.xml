@@ -42,7 +42,7 @@
         android:id="@+id/convertButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Convert" />
+        android:text="Convert it" />
 
     <TextView
         android:id="@+id/resultText"
